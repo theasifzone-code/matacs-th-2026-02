@@ -1,0 +1,37 @@
+[
+  {
+    "proposal": "A",
+    "rank": 1,
+    "status": "ranked",
+    "score": 98.0,
+    "reason": "Strongest experience and complete delivery plan; meets stated mandatory checks, costs $238,000 CAD, and commits to 12 weeks."
+  },
+  {
+    "proposal": "E",
+    "rank": 2,
+    "status": "ranked",
+    "score": 89.5,
+    "reason": "Meets stated mandatory checks and offers a strong team, safety/roof assessment, monitoring, and 12-year workmanship warranty; price and timeline trail A."
+  },
+  {
+    "proposal": "C",
+    "rank": 3,
+    "status": "ranked",
+    "score": 83.4,
+    "reason": "Meets stated mandatory checks with relevant experience and 10-year workmanship warranty, but has a higher price, 14-week schedule, and less detail on monitoring/safety."
+  },
+  {
+    "proposal": "B",
+    "rank": null,
+    "status": "ineligible",
+    "score": null,
+    "reason": "The proposal does not confirm that the bidder itself holds the Ontario electrical contractor licence; the subcontractor is to be confirmed after award."
+  },
+  {
+    "proposal": "D",
+    "rank": null,
+    "status": "flagged",
+    "score": null,
+    "reason": "The completion schedule is undetermined, so compliance with the mandatory 16-week project deadline cannot be confirmed; request clarification before ranking."
+  }
+]
